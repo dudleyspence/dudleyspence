@@ -14,7 +14,7 @@ Passionate problem-solver with a solid foundation in computer science and a dist
 
 * 🖥️  See my portfolio at [dudleyspence.com](http://www.dudleyspence.com)
 * ✉️  You can contact me at [dudleyspence5@gmail.com](mailto:dudleyspence5@gmail.com)
-* 🚀  I'm currently working on [TravelSync](http://github.com/dudleyspence/TravelSync-API)
+* 🚀  I'm currently working on [TravelSync](http://github.com/dudleyspence/TravelSync-FE)
 * 🧠  I'm learning fastAPI in Python
 * 🤝  I'm open to collaborating on Interesting Projects
 
