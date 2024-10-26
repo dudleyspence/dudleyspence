@@ -14,8 +14,8 @@ Passionate problem-solver with a solid foundation in computer science and a dist
 
 * 🖥️  See my portfolio at [dudleyspence.com](http://www.dudleyspence.com)
 * ✉️  You can contact me at [dudleyspence5@gmail.com](mailto:dudleyspence5@gmail.com)
-* 🧠  I just completed https://travelsync-fe-extended-production.up.railway.app/
-* * 🚀  I'm currently working on ...
+* 🧠  I just completed https://PeaceOfMind-fe-production.up.railway.app/
+* * 🚀  I'm currently working on a next.js app to track my french-learning-journey
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
