@@ -26,10 +26,13 @@
 </p>
 
 
+<h3 align="center">How consistant am I?:</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false" alt="dudleyspence's Streak" />
 </div>
+
+<h3 align="center">Top Repositories:</h3>
 
 <div align="center">
   <a href="https://github.com/dudleyspence/TrailTalk">
