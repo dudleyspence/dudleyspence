@@ -80,6 +80,9 @@
   </a>
 </p>
 
-![dudleyspence's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false)
+<div align="center">
+  ![dudleyspence's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false)  
+</div>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=TrailTalk)](https://github.com/dudleyspence/TrailTalk)
