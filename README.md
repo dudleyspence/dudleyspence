@@ -16,10 +16,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/dudleyspence" target="blank" style="background-color: #0077b5; border-radius: 25px; padding: 10px;">
+  <a href="https://linkedin.com/in/dudleyspence" target="blank" style="background-color: #f4f1de; border-radius: 25px; padding: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dudleyspence" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/dudleyspence" target="blank" style="background-color: #E4405F; border-radius: 25px; padding: 10px;">
+  <a href="https://instagram.com/dudleyspence" target="blank" style="background-color: #f4f1de; border-radius: 25px; padding: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dudleyspence" height="30" width="40" />
   </a>
 </p>
