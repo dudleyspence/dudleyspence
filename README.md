@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dudley@dudleyspence.com**
 
-- 📄 Know about my experiences [https://www.icloud.com/iclouddrive/081h-R6PU4egoCSOLicKBG_cw#Dudley%5FSpence%5FFullstack%5FCV](https://www.icloud.com/iclouddrive/081h-R6PU4egoCSOLicKBG_cw#Dudley%5FSpence%5FFullstack%5FCV)
+- 📄 Know about my experiences [Download my resume](https://www.icloud.com/iclouddrive/081h-R6PU4egoCSOLicKBG_cw#Dudley%5FSpence%5FFullstack%5FCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
