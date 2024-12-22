@@ -25,9 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&" alt="dudleyspence" /></p>
 
-
-### Badges
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
