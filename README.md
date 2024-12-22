@@ -81,4 +81,4 @@
 </p>
 
 ![dudleyspence's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudleyspence&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudleyspence&size_weight=0&count_weight=1)
