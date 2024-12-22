@@ -25,6 +25,22 @@
   </a>
 </p>
 
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false" alt="dudleyspence's Streak" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/dudleyspence/TrailTalk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=TrailTalk" alt="TrailTalk Repo Card" />
+  </a>
+  <a href="https://github.com/dudleyspence/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=portfolio" alt="Portfolio Repo Card" />
+  </a>
+</div>
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="background-color: #f4f1de; border-radius: 10%; padding: 10px; margin: 5px;">
@@ -79,14 +95,4 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dudleyspence&theme=tokyonight&hide_border=false" alt="dudleyspence's Streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/dudleyspence/TrailTalk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=TrailTalk" alt="TrailTalk Repo Card" />
-  </a>
-</div>
 
