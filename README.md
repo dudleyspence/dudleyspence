@@ -29,7 +29,7 @@
 <b>Top Repositories</b>
 <div width="100%" align="center">
   <a href="http://github.com/dudleyspence/TrailTalk" align="right">
-    <img align="right" width="45%"  />
+    <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=TrailTalk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en"/>
   </a>
   <a href="http://github.com/dudleyspence/Portfolio" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dudleyspence&repo=TrailTalk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" />
