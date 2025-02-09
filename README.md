@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [www.dudleyspence.com](www.dudleyspence.com)
+- 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com)
 
 - 📫 How to reach me **dudley@dudleyspence.com**
 
