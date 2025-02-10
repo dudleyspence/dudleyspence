@@ -7,13 +7,13 @@
 
 - 🔭 I just finished working on [TrailTalk](https://github.com/dudleyspence/TrailTalk)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com)
 
 - 📫 How to reach me **dudley@dudleyspence.com**
 
-- 📄 Know about my experiences [Download my resume](https://www.icloud.com/iclouddrive/081h-R6PU4egoCSOLicKBG_cw#Dudley%5FSpence%5FFullstack%5FCV)
+- 📄 Know about my experiences [Download my resume]([https://www.icloud.com/iclouddrive/081h-R6PU4egoCSOLicKBG_cw#Dudley%5FSpence%5FFullstack%5FCV](https://www.icloud.com/iclouddrive/011-RoYQ-xXwZhVbSOhbqe9_w#Dudley%5FSpence%5FFullstack))
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
