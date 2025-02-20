@@ -1,7 +1,7 @@
 
-# Hello, I'm Dudley <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=dudleyspence&label=Profile%20views&color=0e75b6&style=flat" alt="dudleyspence" />
-</p>
+# Hello, I'm Dudley <img src="https://komarev.com/ghpvc/?username=dudleyspence&label=Profile%20views&color=0e75b6&style=flat" alt="dudleyspence" />
+  
+
 
 
 # 💫 About Me:
