@@ -5,34 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=dudleyspence&label=Profile%20views&color=0e75b6&style=flat" alt="dudleyspence" />
 </p>
 
-- 🔭 I just finished working on [TrailTalk](https://github.com/dudleyspence/TrailTalk)
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com)
-
-- 📫 How to reach me **dudley@dudleyspence.com**
-
-- 📄 Know about my experiences [Download my resume](https://www.icloud.com/iclouddrive/011-RoYQ-xXwZhVbSOhbqe9_w#Dudley%5FSpence%5FFullstack)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/dudleyspence" target="blank" style="background-color: #f4f1de; border-radius: 50%; padding: 15px; display: inline-block; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dudleyspence" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/dudleyspence" target="blank" style="background-color: #f4f1de; border-radius: 50%; padding: 15px; display: inline-block; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dudleyspence" height="30" width="30" />
-  </a>
-</p>
-
-
-<h3 align="center">How consistant am I?:</h3>
-
-
-
-
 # 💫 About Me:
-🔭 I’m currently working on planning for a mobile application<br>👯 I just completed work on EventHub <br>🌱 I’m currently learning Nest.js <br>
+⚡️ I just finished working on [EventHub](https://github.com/dudleyspence/EventHub)
+🔭 I’m currently working on planning for a mobile application
+🌱 I’m currently learning Nest.js and GraphQL
+👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com)
+📫 How to reach me **dudley@dudleyspence.com**
+📄 Know about my experiences [Download my resume](https://www.icloud.com/iclouddrive/011-RoYQ-xXwZhVbSOhbqe9_w#Dudley%5FSpence%5FFullstack)
 
 
 ## 🌐 Socials:
