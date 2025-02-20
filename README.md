@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-⚡️ I just finished working on [EventHub](https://github.com/dudleyspence/EventHub)
+⚡️ I just finished working on [EventHub](https://github.com/dudleyspence/EventHub)</br>
 🔭 I’m currently working on planning for a mobile application
 🌱 I’m currently learning Nest.js and GraphQL
 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com)
