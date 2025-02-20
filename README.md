@@ -9,7 +9,7 @@
 🔭 I’m currently working on planning for a mobile application </br>
 🌱 I’m currently learning Nest.js and GraphQL </br>
 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com) </br>
-📫 How to reach me [**dudley@dudleyspence.com**](dudley@dudleyspence.com) </br>
+📫 How to reach me **dudley@dudleyspence.com**</br>
 📄 Know about my experiences [Download my resume](https://www.icloud.com/iclouddrive/011-RoYQ-xXwZhVbSOhbqe9_w#Dudley%5FSpence%5FFullstack) </br>
 
 
