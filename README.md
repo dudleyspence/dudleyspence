@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Dudley</h1>
-<h3 align="center">A developer from the UK</h3>
+<h1 align="left">Hello, I'm Dudley</h1>
+<h3 align="left">A developer from the UK</h3>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dudleyspence&label=Profile%20views&color=0e75b6&style=flat" alt="dudleyspence" />
 </p>
 
