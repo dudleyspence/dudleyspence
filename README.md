@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
- I’m currently working my SaaS [Chunk](https://www.chunkapp.net) - a desktop menubar app for macOS with 130+ users</br>
+ I’m currently working my SaaS [Chunk](https://www.chunkapp.net) - a desktop menubar app for macOS with 350+ users</br>
 ⚡️ I just finished working on [EventHub](https://github.com/dudleyspence/EventHub)</br>
 👨‍💻 All of my projects are available at [http://www.dudleyspence.com](http://www.dudleyspence.com) </br>
 📫 How to reach me **dudley@dudleyspence.com**</br>
